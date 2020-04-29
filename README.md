@@ -6,7 +6,7 @@ Contains both Hardware tested on toy car and simulations. Generate training data
 
 ![Screenshot 2020-04-30 at 1 37 01 AM](https://user-images.githubusercontent.com/40122399/80641812-1079fb80-8a83-11ea-9e38-f00abf96357b.png)
 
-About the files
+# About the files
 test/
     rc_control_test.py: RC car control with keyboard
     stream_server_test.py: video streaming from Pi to computer
