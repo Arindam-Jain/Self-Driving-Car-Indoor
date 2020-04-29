@@ -6,27 +6,3 @@ Contains both Hardware tested on toy car and simulations. Generate training data
 
 ![Screenshot 2020-04-30 at 1 37 01 AM](https://user-images.githubusercontent.com/40122399/80641812-1079fb80-8a83-11ea-9e38-f00abf96357b.png)
 
-# About the files
-test:
-    rc_control_test.py: RC car control with keyboard
-    stream_server_test.py: video streaming from Pi to computer
-    ultrasonic_server_test.py: sensor data streaming from Pi to computer
-    model_train_test/
-        data_test.npz: sample data
-        train_predict_test.ipynb: a jupyter notebook that goes through neural network model in OpenCV3
-
-raspberryPi:
-    stream_client.py: stream video frames in jpeg format to the host computer
-    ultrasonic_client.py: send distance data measured by sensor to the host computer
-
-arduino:
-    rc_keyboard_control.ino: control RC car controller
-
-computer:
-    picam_calibration.py: pi camera calibration
-    collect_training_data.py: collect images in grayscale, data saved as *.npz
-    model.py: neural network model
-    model_training.py: model training and validation
-    rc_driver_helper.py: helper classes/functions for rc_driver.py
-    rc_driver.py: receive data from raspberry pi and drive the RC car based on model prediction
-    rc_driver_nn_only.py: simplified rc_driver.py without object detection
