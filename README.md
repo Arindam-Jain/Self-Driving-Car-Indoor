@@ -35,3 +35,5 @@ About 3000 Images of our college corridor were taken
 
 # Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YQQlbH-sbFo/0.jpg)](https://www.youtube.com/watch?v=YQQlbH-sbFo)
+<br/>
+I have used the black pages as boundary
