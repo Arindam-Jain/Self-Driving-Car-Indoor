@@ -30,3 +30,8 @@ computer/
     rc_driver.py: receive data from raspberry pi and drive the RC car based on model prediction
     rc_driver_nn_only.py: simplified rc_driver.py without object detection
 
+
+=======
+![Screenshot 2020-04-30 at 1 37 01 AM](https://user-images.githubusercontent.com/40122399/80641812-1079fb80-8a83-11ea-9e38-f00abf96357b.png)
+>>>>>>> 638c342f8b8a49a5a8b368e27d16dcdbddebe681
+
