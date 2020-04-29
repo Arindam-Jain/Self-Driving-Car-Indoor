@@ -30,5 +30,5 @@ computer/<br />
 
 
 ![Screenshot 2020-04-30 at 1 37 01 AM](https://user-images.githubusercontent.com/40122399/80641812-1079fb80-8a83-11ea-9e38-f00abf96357b.png)
-
+About 3000 Images of our college corridor were taken
 
