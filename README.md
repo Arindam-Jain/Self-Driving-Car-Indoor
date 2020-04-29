@@ -7,7 +7,7 @@ Contains both Hardware tested on toy car and simulations. Generate training data
 ![Screenshot 2020-04-30 at 1 37 01 AM](https://user-images.githubusercontent.com/40122399/80641812-1079fb80-8a83-11ea-9e38-f00abf96357b.png)
 
 # About the files
-test/
+test:
     rc_control_test.py: RC car control with keyboard
     stream_server_test.py: video streaming from Pi to computer
     ultrasonic_server_test.py: sensor data streaming from Pi to computer
@@ -15,19 +15,14 @@ test/
         data_test.npz: sample data
         train_predict_test.ipynb: a jupyter notebook that goes through neural network model in OpenCV3
 
-raspberryPi/
+raspberryPi:
     stream_client.py: stream video frames in jpeg format to the host computer
     ultrasonic_client.py: send distance data measured by sensor to the host computer
 
-arduino/
+arduino:
     rc_keyboard_control.ino: control RC car controller
 
-computer/
-    cascade_xml/
-        trained cascade classifiers
-    chess_board/
-        images for calibration, captured by pi camera
-
+computer:
     picam_calibration.py: pi camera calibration
     collect_training_data.py: collect images in grayscale, data saved as *.npz
     model.py: neural network model
