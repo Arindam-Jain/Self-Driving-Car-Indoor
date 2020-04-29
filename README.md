@@ -34,4 +34,4 @@ computer/<br />
 About 3000 Images of our college corridor were taken
 
 # Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=YQQlbH-sbFo/0.jpg)](https://www.youtube.com/watch?v=YQQlbH-sbFo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YQQlbH-sbFo/0.jpg)](https://www.youtube.com/watch?v=YQQlbH-sbFo)
