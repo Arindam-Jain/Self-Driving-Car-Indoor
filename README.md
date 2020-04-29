@@ -7,7 +7,7 @@ Contains both Hardware tested on toy car and simulations. Generate training data
 
 # About the files
 test/<br />
-        Real_Vehicle.py: Big RC car control with keyboard<br />
+              Real_Vehicle.py: Big RC car control with keyboard<br />
     rc_control_test.py: RC car control with keyboard<br />
     stream_server_test.py: video streaming from Pi to computer<br />
     ultrasonic_server_test.py: sensor data streaming from Pi to computer neural network model in OpenCV3<br />
