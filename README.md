@@ -3,6 +3,8 @@ This repository is the implementation of the paper "Indoor navigation of unmanne
 ISSN: 2277-3878, Volume-8 Issue-6, March 2020.
 
 Contains both Hardware tested on toy car and simulations. Generate training data- records training images & respective steering angles. Using convolutional neural network(CNN)model can autonomously drive the car.
+<br/>
+![Screenshot 2020-05-07 at 5 45 34 PM](https://user-images.githubusercontent.com/40122399/81293275-a8cb3e00-908a-11ea-8f6f-f9c938f4bd38.png)
 
 
 # About the files
@@ -42,5 +44,5 @@ This video is the prototype which was sucessfully implemented on a medium size t
 # Research Paper
 https://www.ijrte.org/wp-content/uploads/papers/v8i6/F7972038620.pdf
 <br/>
-![Screenshot 2020-05-07 at 5 45 34 PM](https://user-images.githubusercontent.com/40122399/81293275-a8cb3e00-908a-11ea-8f6f-f9c938f4bd38.png)
+
 
