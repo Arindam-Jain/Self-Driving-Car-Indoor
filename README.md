@@ -45,4 +45,5 @@ This video is the prototype which was sucessfully implemented on a medium size t
 https://www.ijrte.org/wp-content/uploads/papers/v8i6/F7972038620.pdf
 <br/>
 
+Please cite the above paper if you use the model in your work.
 
